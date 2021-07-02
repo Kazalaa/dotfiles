@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pie.clouteca@gmail.com
+	name = Pierre Cloute Cazalaa
